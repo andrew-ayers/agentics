@@ -4,10 +4,30 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Goal
 
-This is an experimental resistor calculator web application being developed with Claude Code as the primary development tool. The application has two core features:
+The Resistor Calculator is a basic web application to calculate the resistance value of a resistor given the selection of color bands, or to display the proper resistor color bands given a resistance value.
 
-1. **Colors → Ohms**: User selects resistor band colors; app displays the corresponding resistance value in ohms.
-2. **Ohms → Colors**: User inputs an ohms value; app displays the corresponding color bands.
+## Additional Guidance
+
+Read `docs/guidelines.md` for additional instructions.
+
+## Tech Stack
+
+- DHTML 
+- Typescript (https://www.typescriptlang.org/)
+- Skeleton CSS 2.0.4 (http://getskeleton.com/)
+
+## User Interface Design and Layout
+
+Read `docs/user-interface.md` for additional instructions.
+
+## Use Cases
+
+1. Read `docs/use-case-1.md` for additional instructions.
+2. Read `docs/use-case-2.md` for additional instructions.
+
+## Calculation Logic
+
+**Calculation Logic**: Read `docs/calc-logic.md` for additional instructions.
 
 ## Status
 
